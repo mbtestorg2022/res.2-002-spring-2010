@@ -25,7 +25,7 @@ Description
 
 This video series is a comprehensive course of study that presents effective finite element procedures for the linear analysis of solids and structures. The finite element method is the ideal tool for solving static and dynamic problems in engineering and the sciences. Linear analysis assumes linear elastic behavior and infinitesimally small displacements and strains. To establish appropriate models for analysis, it is necessary to become familiar with the finite element methods available.
 
-In these videos, Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, teaches the basic principles used for effective finite element analysis, describes the general assumptions, and discusses the implementation of finite element procedures. Upon completion of this video course, a second course covering [Nonlinear Analysis](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear) is available.
+In these videos, Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, teaches the basic principles used for effective finite element analysis, describes the general assumptions, and discusses the implementation of finite element procedures. Upon completion of this video course, a second course covering {{% resource_link "4f0f5719-a469-9634-caf5-43161dea55c0" "Nonlinear Analysis" %}} is available.
 
 Prerequisites
 -------------
@@ -60,7 +60,7 @@ This video course presents general theory and use of finite element procedures. 
 Study Guide Components
 ----------------------
 
-*   Complete Study Guide ([PDF - 4.1MB](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/linear/MITRES2_002S10_linear.pdf))
+*   Complete Study Guide ({{% resource_link "dab1968e-6c87-110a-eb83-d0f4e17d75d5" "PDF - 4.1MB" %}})
 *   Preface ([PDF](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/linear/MITRES2_002S10_preface.pdf))
 *   Table of Contents ([PDF](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/linear/MITRES2_002S10_toc.pdf))
 

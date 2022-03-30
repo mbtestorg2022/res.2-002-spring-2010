@@ -35,7 +35,7 @@ Description
 
 This video series presents effective finite element procedures for the nonlinear analysis of solids and structures. The finite element method is the ideal tool for solving complex static and dynamic problems in engineering and the sciences. Nonlinear analysis models kinematic and/or materially nonlinear effects.
 
-In these videos, Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, builds upon the concepts developed in his previous video course on [Linear Analysis](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/linear). General nonlinear analysis techniques are presented by emphasizing physical concepts. The mathematical foundation of nonlinear finite element techniques is given in light of these physical requirements. A wide range of questions in engineering and the sciences can be addressed with these methods. Upon completion of the course, participants will be able to simulate and analyze problems such as:
+In these videos, Professor K. J. Bathe, a researcher of world renown in the field of finite element analysis, builds upon the concepts developed in his previous video course on {{% resource_link "846cbebc-9e52-f111-dfbb-3e143d5f5a5a" "Linear Analysis" %}}. General nonlinear analysis techniques are presented by emphasizing physical concepts. The mathematical foundation of nonlinear finite element techniques is given in light of these physical requirements. A wide range of questions in engineering and the sciences can be addressed with these methods. Upon completion of the course, participants will be able to simulate and analyze problems such as:
 
 *   Large displacement collapse or buckling of structures
 *   Progressive damage of structural components under high-temperature conditions
@@ -47,7 +47,7 @@ In these videos, Professor K. J. Bathe, a researcher of world renown in the fiel
 Prerequisites
 -------------
 
-An undergraduate degree in engineering or science, and completion of the previous video course on [Linear Analysis](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/linear).
+An undergraduate degree in engineering or science, and completion of the previous video course on {{% resource_link "846cbebc-9e52-f111-dfbb-3e143d5f5a5a" "Linear Analysis" %}}.
 
 Textbook
 --------
@@ -79,10 +79,10 @@ This video course presents general theory and use of finite element procedures. 
 Study Guide Components
 ----------------------
 
-*   Complete Study Guide ([PDF 1 of 2 - 7.3MB](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear/MITRES2_002S10_lec1_13.pdf)) ([PDF 2 of 2 - 7.2MB](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear/MITRES2_002S10_lec14_22.pdf))
+*   Complete Study Guide ({{% resource_link "b57be322-4dc7-f863-d00a-a58a35c58768" "PDF 1 of 2 - 7.3MB" %}}) ({{% resource_link "e55f2c75-fd9a-8f86-32f8-5c662b184167" "PDF 2 of 2 - 7.2MB" %}})
 *   Preface ([PDF](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear/MITRES2_002S10_preface.pdf))
 *   Table of Contents ([PDF](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear/MITRES2_002S10_toc.pdf))
-*   Glossary ([PDF](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/nonlinear/MITRES2_002S10_glossary.pdf))
+*   Glossary ({{% resource_link "ffbdf5d0-fd22-16b4-fcb8-dd9fdab29b6e" "PDF" %}})
 
 {{< video-gallery "4f0f5719-a469-9634-caf5-43161dea55c0" >}}
 
